@@ -1,4 +1,4 @@
-class Chapter1Controller < ApplicationController
+class Chapter2Controller < ApplicationController
   def activity1
     @time = Time.now
   end
