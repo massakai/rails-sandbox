@@ -1,4 +1,8 @@
 RailsSandbox::Application.routes.draw do
+  get "chapter1/activity1"
+
+  get "chapter1/activity2"
+
   get "say/hello"
 
   get "say/goodbye"
