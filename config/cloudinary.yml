@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: hsenr2nxe
+  api_key: '415176826766983'
+  api_secret: G5Idet1b7bcCCmnTGsnUlD8plaI
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: hsenr2nxe
+  api_key: '415176826766983'
+  api_secret: G5Idet1b7bcCCmnTGsnUlD8plaI
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: hsenr2nxe
+  api_key: '415176826766983'
+  api_secret: G5Idet1b7bcCCmnTGsnUlD8plaI
+  enhance_image_tag: true
+  static_image_support: false
